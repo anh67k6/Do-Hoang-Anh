@@ -1,3 +1,9 @@
+//STUDY
+//1. what is Boolean? A JavaScript Boolean represents one of two values: true or false.
+//3 example : 1==3, 1==="1", 1>=3
+
+//2. What is flowchart 
+// A flowchart is a visual representation of a process in which each step in the process is represented by a different shape and contains a short description of the process step
 
 //Ex1
 let nang = Number(prompt("Cân nặng của bạn (kg): "));
@@ -38,3 +44,79 @@ else{
 }
 console.log(tich);
 }
+
+//TurtleJs
+//Hình số 1
+// lt(30)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(120)
+// fd(100)
+// rt(60)
+// fd(100)
+// fd(100)
+// lt(60)
+// fd(100)
+// lt(120)
+// fd(100)
+// lt(60)
+// fd(100)
+// lt(30)
+// fd(100)
+// lt(60)
+// fd(100)
+// lt(120)
+// fd(100)
+// lt(60)
+// fd(100)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(120)
+// fd(100)
+// rt(60)
+// fd(100)
+
+// //Hình số 2
+// rt(30)
+// fd(100)
+// rt(120)
+// fd(100)
+// rt(120)
+// fd(100)
+// rt(120)
+// lt(30)
+// fd(100)
+// rt(90)
+// fd(100)
+// rt(90)
+// fd(100)
+// rt(90)
+// fd(100)
+// rt(90)
+// lt(18)
+// fd(100)
+// rt(72)
+// fd(100)
+// rt(72)
+// fd(100)
+// rt(72)
+// fd(100)
+// rt(72)
+// fd(100)
+// rt(72) 
+// lt(12)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(60)
+// fd(100)
+// rt(60)
+

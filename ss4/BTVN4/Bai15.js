@@ -1,4 +1,4 @@
-let jobSearch = {
+let jobData = {
     hits: [
         {
             benefits: [
@@ -928,6 +928,18 @@ let jobSearch = {
             }
         }
     ]
-}
+};
+//15.1
+console.log(jobData.hits);
 
-console.log(typeof outermostlayer);
+//15.2
+console.log(jobData.hits[0]);
+
+//15.3
+console.log(jobData.hits[0].jobTitle);   
+
+//15.4
+console.log(jobData.hits[0].benefits);   
+
+//15.5
+console.log(jobData.hits[0].benefits[1]);  

@@ -8,4 +8,4 @@ const product = {
         console.log(`${x}: ${product[x]}`)
     }
 
-    //x receives proerty from product
+    //x receives property from product

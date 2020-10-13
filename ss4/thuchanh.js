@@ -47,35 +47,35 @@
 
 //Array of object
 
-let movieArr = [
-    {
-        name : 'Attack on Titans',
-        year : 2013, 
-        rate : 8.8 ,
-    },
-    {
-        name : 'My boss my hero',
-        year : 2006,
-        rate : 8.2,
-    },
-    {
-        name : 'My hunter',
-        year : 2017,
-        rate : 8.6,
-    }
-];
+// let movieArr = [
+//     {
+//         name : 'Attack on Titans',
+//         year : 2013, 
+//         rate : 8.8 ,
+//     },
+//     {
+//         name : 'My boss my hero',
+//         year : 2006,
+//         rate : 8.2,
+//     },
+//     {
+//         name : 'My hunter',
+//         year : 2017,
+//         rate : 8.6,
+//     }
+// ];
 
 
 
-for (let i = 0; i < movieArr.length; i ++){
-    console.log(`Name : ${movieArr[i].name}`);
-    console.log(`Year : ${movieArr[i].year}`);
-    console.log(`Rate : ${movieArr[i].rate}`);
-    console.log('--------------')
-};
+// for (let i = 0; i < movieArr.length; i ++){
+//     console.log(`Name : ${movieArr[i].name}`);
+//     console.log(`Year : ${movieArr[i].year}`);
+//     console.log(`Rate : ${movieArr[i].rate}`);
+//     console.log('--------------')
+// };
 
-movieArr[2].rate = movieArr[2].rate + 0.7;
-console.log(movieArr[2].rate);
+// // movieArr[2].rate = movieArr[2].rate + 0.7;
+// console.log(movieArr[2]);
 
 
 //Object of Array

@@ -8,14 +8,16 @@
  };
 while(true){
  let input = prompt('Enter a keyword');
-let a = dic[input];
+    let a = dic[input];
 
  if(a === null || a === undefined ) {
      alert(`We could not find your word: ${input}`);
      let input2 = prompt('Please leave your explanation');
+     dic[input] = input2;
      alert('done');
     }
  else{
     console.log(a);
+    break;
  }
 }   

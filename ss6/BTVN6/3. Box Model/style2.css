@@ -1,0 +1,8 @@
+div{
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    /* padding-left: 40px;
+    padding-right: 40px; */
+    padding: 40px;
+  }

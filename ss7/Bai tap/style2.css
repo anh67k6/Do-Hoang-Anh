@@ -1,0 +1,66 @@
+/* .trang{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    margin: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.trang .phan-anh{
+    width: 100%;
+    height: auto;
+}
+
+.trang .view{
+    position: absolute;
+    width: 100%;
+    top:235px;
+    left:0px;
+    z-index: 2;
+    opacity: 0.8;
+}
+
+.trang .loivan{
+    font-weight: bold;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 20px;
+} */
+
+.bai-2{
+    width: 300px;
+    height: 460px;
+    background-color: white;
+    margin: 30px;
+    border: 2px solid black;
+    position: relative;
+}
+
+.bai-2 .anh-gd{
+    width: 100%;
+    height: auto;
+    top: 66px;
+    left: 0px;
+    position: absolute;
+}
+
+.bai-2 .title-1{
+    border-left: 5px solid orange ;
+    margin: 10 px;
+    padding-left: 10px;
+}
+
+.bai-2 .title-2{
+    position: absolute;
+    top: 266px;
+    margin: 10px;
+}
+
+.bai-2 .script{
+    position: absolute;
+    top: 323px;
+    margin: 10px;
+}
